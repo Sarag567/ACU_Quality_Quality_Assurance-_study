@@ -6,3 +6,6 @@ print("my age is 12")
 print("hello world ")
 print('g')
 print('my age is 22')
+'welcome'
+'hi'
+print('my height is 155')
